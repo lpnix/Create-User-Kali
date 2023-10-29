@@ -1,2 +1,3 @@
-chmod +x create-usr.sh \n
+
+chmod +x create-usr.sh <br>
 create-usr.sh <name>
